@@ -1,2 +1,3 @@
 Hello Git
 New branch text
+Text from cloned repository
